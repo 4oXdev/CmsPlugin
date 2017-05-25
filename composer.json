@@ -16,7 +16,7 @@
 
         "sylius/sylius": "dev-master",
 
-        "doctrine/phpcr-odm": "^1.4.2",
+        "doctrine/phpcr-odm": "*",
         "symfony-cmf/block-bundle": "^2.0@dev",
         "symfony-cmf/content-bundle": "^2.0",
         "symfony-cmf/media-bundle": "dev-master",
